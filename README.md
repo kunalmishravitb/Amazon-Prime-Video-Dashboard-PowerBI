@@ -64,9 +64,10 @@ The dashboard includes the following visualizations and KPIs:
 ```bash
 📆 Amazon-Prime-Dashboard/
 🗃️ amazon_prime_titles.csv         # Dataset used for the dashboard
-📸 dashboard_screenshot.png        # Screenshot of the Power BI dashboard
-📁 PowerBI_Dashboard.pbix          # (Optional) Power BI report file if publishing
-📄 README.md                        # This file
+📸 Dashboard.png                   # Screenshot of the Power BI dashboard
+📸 Prime video logo.png            # Logo of the Amazon Prime Video
+📁 PowerBI_Dashboard.pbix          # Power BI report
+📄 README.md                       # This file
 ```
 
 ## 🧐 Insights & Takeaways
